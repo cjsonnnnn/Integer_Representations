@@ -11,7 +11,6 @@ Original file is located at
 
 # Decimal to Hexadecimal
 
-# just in case if the user inputted is not a number
 try:
   decimal = int(input("Input the decimal number: "))
   hexadecimal = ""
